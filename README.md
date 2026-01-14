@@ -56,26 +56,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔥 **AI Skill Development Platform**  
-  Personalized learning & career guidance using AI agents  
-
-- 🌐 **Frontend Dashboard Projects**  
-  Responsive, modern UI using HTML, CSS & JavaScript  
-
-- 🧠 **DSA Practice Repo**  
-  Clean, optimized solutions with explanations  
-
-- ⚙️ **Automation Scripts**  
-  Python & JS tools to simplify workflows  
 
 ---
 
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,cpp,mysql,mongodb,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,cpp,mongodb,git,github,vscode" />
 </p>
 
 ---
