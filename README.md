@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm <span style="color:#8b5cf6;">Advay</span> 👋</h1>
+<h1 align="center">Hello, I'm <span style="color:#8b5cf6;">Advay</span> 👋</h1>
 <h3 align="center">Student • Frontend Developer • AI & DSA Enthusiast</h3>
 
 <p align="center">
