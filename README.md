@@ -30,7 +30,6 @@ Before publishing:
 I'm **Advay**, a Computer Science student at **Vellore Institute of Technology** who enjoys building products at the intersection of full-stack engineering, data, and real-world problem-solving.
 
 - 🎓 B.Tech in Computer Science at VIT — **expected May 2028**
-- 📚 Current CGPA: **8.45**
 - 🏗️ Python Summer Intern at **IIT Bombay**
 - ⚙️ Interested in scalable backends, clean frontend experiences, AI-powered insights, and secure systems
 - 🌱 Always learning by building projects that solve practical problems
