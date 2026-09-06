@@ -140,9 +140,6 @@ An interactive portfolio inspired by the macOS desktop—complete with draggable
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=advay-demo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Advay's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advay-demo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=advay-demo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
